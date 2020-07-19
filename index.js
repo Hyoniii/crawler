@@ -82,3 +82,4 @@ const crawler3 = async() => {
     fs.writeFileSync("./result/coupang-puppeteer.csv", wrTxt)
 }
 //crawler3();
+
